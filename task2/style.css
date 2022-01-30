@@ -1,0 +1,19 @@
+.p-1,
+.p-2,
+.p-3 {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 300px;
+  height: 120px;
+  padding: 20px;
+}
+.p-1 {
+  background-color: rgb(189, 109, 255);
+}
+.p-2 {
+  background-color: rgb(149, 19, 255);
+  color: rgb(255, 255, 255);
+}
+.p-3 {
+  background-color: rgb(227, 193, 255);
+  color: rgb(255, 255, 255);
+}
